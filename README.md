@@ -1,4 +1,4 @@
-#Discord-RPC Binaries
+# Discord-RPC Binaries
 
 Java Repository for Binaries of https://github.com/discordapp/discord-rpc/
 
