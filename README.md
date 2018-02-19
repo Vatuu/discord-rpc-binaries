@@ -2,6 +2,6 @@
 
 Java Repository for Binaries of https://github.com/discordapp/discord-rpc/
 
-Current Version: **2.1.1**
+Current Version: **2.2.0-PRE**
 ***
 https://github.com/discordapp/discord-rpc/releases/tag/v2.1.1
